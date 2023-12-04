@@ -6,7 +6,7 @@
 
 ### Description
 
-- User can search a perticular city or a perticular area and see the current weather of that city.
+- Users can search a particular city or a particular area and see the current weather of that Area.
 
 ### Technologies:
 
